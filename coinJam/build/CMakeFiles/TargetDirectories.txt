@@ -1,0 +1,3 @@
+/home/katta/workspace/googleJam/coinJam/build/CMakeFiles/edit_cache.dir
+/home/katta/workspace/googleJam/coinJam/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/coinJam/build/CMakeFiles/coinjam.dir
