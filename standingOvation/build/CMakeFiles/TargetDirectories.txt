@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/standingovation.dir
+/home/katta/workspace/googleJam/standingOvation/build/CMakeFiles/edit_cache.dir
