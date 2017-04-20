@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/fractiles.dir/main.cpp.o  -o fractiles -rdynamic 
