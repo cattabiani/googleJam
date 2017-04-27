@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/tictactoetomek.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/ticTacToeTomek/build/CMakeFiles/edit_cache.dir

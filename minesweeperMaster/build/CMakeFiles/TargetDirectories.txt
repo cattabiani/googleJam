@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/minesweepermaster.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/minesweeperMaster/build/CMakeFiles/edit_cache.dir

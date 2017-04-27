@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/ominousomino.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/ominousOmino/build/CMakeFiles/edit_cache.dir

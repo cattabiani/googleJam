@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/minesweepermaster.dir/main.cpp.o  -o minesweepermaster -rdynamic 

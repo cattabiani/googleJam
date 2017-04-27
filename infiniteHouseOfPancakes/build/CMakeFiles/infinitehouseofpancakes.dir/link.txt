@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/infinitehouseofpancakes.dir/main.cpp.o  -o infinitehouseofpancakes -rdynamic 
