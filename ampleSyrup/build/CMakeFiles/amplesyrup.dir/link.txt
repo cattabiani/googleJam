@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/amplesyrup.dir/main.cpp.o  -o amplesyrup -rdynamic 

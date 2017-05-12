@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/amplesyrup.dir
+/home/katta/workspace/googleJam/ampleSyrup/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/parentingpartnering.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/edit_cache.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/parentingPartnering/build/CMakeFiles/install/local.dir

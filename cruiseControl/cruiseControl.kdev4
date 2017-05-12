@@ -1,0 +1,4 @@
+[Project]
+Name=cruiseControl
+Manager=KDevCMakeManager
+VersionControl=

@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/edit_cache.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/cruisecontrol.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/cruiseControl/build/CMakeFiles/install/local.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/stableneighbors.dir/main.cpp.o  -o stableneighbors -rdynamic 

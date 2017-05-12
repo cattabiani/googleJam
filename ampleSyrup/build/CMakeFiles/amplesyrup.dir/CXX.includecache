@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katta/workspace/googleJam/ampleSyrup/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+algorithm
+-
+numeric
+-
+iomanip
+-
+
