@@ -1,0 +1,7 @@
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/install.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/list_install_components.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/rebuild_cache.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/fashionpolice.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/install/strip.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/install/local.dir
+/home/katta/workspace/googleJam/fashionPolice/build/CMakeFiles/edit_cache.dir
